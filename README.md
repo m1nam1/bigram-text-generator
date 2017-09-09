@@ -1,4 +1,4 @@
-# bigram-new-text
+# bigram-text-generator
 
 ### 概要
 
